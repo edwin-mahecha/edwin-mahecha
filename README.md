@@ -2,7 +2,7 @@
 - 👀 I’m interested in data management
 - 🌱 I’m currently learning VB Script
 - 💞️ I’m looking to collaborate on KPI dashboard projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... by email
 
 <!---
 edwin-mahecha/edwin-mahecha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
